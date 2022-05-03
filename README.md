@@ -6,14 +6,14 @@ currently, i'm in sixth semester.
 
 In my spare time, i like playing Pokemon GO and Ingress. Sometimes i'm also searching for Geocaches.
 
-### My current projects
+### My current projects 💻
 
 - [PNavCopy](https://github.com/MaxEtMoritz/PNavCopy): An Addon for IITC to import locations of PokéStops and Gyms into the PokeNav Discord Bot.
 - [WaymarkingTweaks](https://github.com/MaxEtMoritz/WaymarkingTweaks): UserScript to attempt to make [waymarking.com](https://waymarking.com) better usable on a smartphone (since it's an outdoor activity).
 
 Also check out my [GitLab account](https://gitlab.com/MaxEtMoritz) (not much to see there, yet, but maybe that will change some time)
 
-### My GPG key
+### My GPG key 🔑
 
 I'll sign all my commits with my GPG key, the fingerprint is `FDCA BF91 BC66 823A 8F64  BF4E A018 EDB7 62AD BE7C`.
 
