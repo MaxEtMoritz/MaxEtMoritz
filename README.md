@@ -2,14 +2,15 @@
 
 I'm MaxEtMoritz, a student of computer science from Nuremberg, Germany.
 
-currently, i'm in sixth semester.
+currently, i'm in the first master semester.
 
-In my spare time, i like playing Pokemon GO and Ingress. Sometimes i'm also searching for Geocaches.
+In my spare time, i like playing Pokémon GO and Ingress. Sometimes i'm also searching for Geocaches.
 
 ### My current projects 💻
 
 - [PNavCopy](https://github.com/MaxEtMoritz/PNavCopy): An Addon for IITC to import locations of PokéStops and Gyms into the PokeNav Discord Bot.
 - [WaymarkingTweaks](https://github.com/MaxEtMoritz/WaymarkingTweaks): UserScript to attempt to make [waymarking.com](https://waymarking.com) better usable on a smartphone (since it's an outdoor activity).
+- [IITC-Glympse](https://github.com/MaxEtMoritz/iitc-glympse): View Glympse Tags on the Ingress Intel Map.
 
 Also check out my [GitLab account](https://gitlab.com/MaxEtMoritz) (not much to see there, yet, but maybe that will change some time)
 
