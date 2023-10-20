@@ -11,6 +11,7 @@ In my spare time, i like playing Pokémon GO and Ingress. Sometimes i'm also sea
 - [PNavCopy](https://github.com/MaxEtMoritz/PNavCopy): An Addon for IITC to import locations of PokéStops and Gyms into the PokeNav Discord Bot.
 - [WaymarkingTweaks](https://github.com/MaxEtMoritz/WaymarkingTweaks): UserScript to attempt to make [waymarking.com](https://waymarking.com) better usable on a smartphone (since it's an outdoor activity).
 - [IITC-Glympse](https://github.com/MaxEtMoritz/iitc-glympse): View Glympse Tags on the Ingress Intel Map.
+- [LBRadio](https://github.com/MaxEtMoritz/LB_radio): Submit Listens done with dumb radio receivers to ListenBrainz
 
 Also check out my [GitLab account](https://gitlab.com/MaxEtMoritz) (not much to see there, yet, but maybe that will change some time)
 
